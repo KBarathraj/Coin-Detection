@@ -1,6 +1,6 @@
 # Coin Detection Using Morphological Operations and Thresholding
 
-**Author:** Barathraj K  
+**Name:** Barathraj K  
 **Registration No:** 212224230033  
 **Slot:** T2-J6
 
@@ -183,6 +183,5 @@ Coin Count & Visualization
 
 ---
 
-## Author Notes
 
 This project successfully demonstrates the application of fundamental computer vision techniques including image preprocessing, morphological operations, and object detection methods. The comparative analysis of Blob and Contour detection provides insights into choosing appropriate methods for different image processing scenarios.
